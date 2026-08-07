@@ -1,3 +1,0 @@
-git add .
-git commit -m "feat(domain): add foundational domain types"
-git pushtest more git
